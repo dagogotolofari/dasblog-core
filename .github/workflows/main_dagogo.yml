@@ -54,4 +54,4 @@ jobs:
           app-name: 'dagogo'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90DBC1367507408EAFC7EC8CDDA616DD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16E5BAE2BCFB422990D02A5568CB8EED }}
